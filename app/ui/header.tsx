@@ -9,7 +9,7 @@ export default function Header() {
             </Link>
             <select defaultValue="Региональный" className="select select-bordered w-[200px] max-w-xs mr-3">
                 <option value="Региональный">Региональный</option>
-                <option value="Межрегиональынй">Региональный</option>
+                <option value="Межрегиональынй">Межрегиональный</option>
             </select>
             <Image src="/profile.svg" alt="Корзина" height={22} width={22} className="ml-3"></Image>
             <h1 className="mr-3">Профиль</h1>
